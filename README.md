@@ -64,3 +64,9 @@ pip install pyyaml jsonschema
 - **scripts/**
   - `new_contract.py` - Generate new contract scaffolds
   - `validate_contract.py` - Validate contracts against the ODCS JSON schema (auto-downloads from GitHub)
+
+To use:
+
+Enter the claude session.
+Invoke the /odcs-contract skill.
+Provide guidance (example below)
