@@ -1,0 +1,22 @@
+{
+    "name": "dccakes-agent-skills",
+    "owner": {
+      "name": "Diego Carvallo"
+    },
+    "metadata": {
+      "description": "Agent skills for ODCS and data contracts",
+      "version": "1.0.0"
+    },
+    "plugins": [
+      {
+        "name": "dccakes-skills",
+        "source": {
+          "source": "url",
+          "url": "https://github.com/diegocarvallo/agent-skills.git"
+        },
+        "description": "Personal agent skills for ODCS data contracts",
+        "version": "1.0.0",
+        "strict": true
+      }
+    ]
+  }
