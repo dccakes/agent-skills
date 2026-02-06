@@ -15,7 +15,7 @@ Personal Claude Code skills for working with data contracts and related tooling.
 
 ```text
 /plugin marketplace add dccakes/agent-skills
-/plugin install dccakes-skills@dccakes-skills
+/plugin install dccakes-skills
 ```
 
 ### Option 2: As a local plugin
