@@ -5,7 +5,7 @@
   "author": {
     "name": "Diego Carvallo"
   },
-  "repository": "https://github.com/diegocarvallo/agent-skills",
+  "repository": "https://github.com/dccakes/agent-skills",
   "license": "MIT",
   "keywords": ["odcs", "data-contracts", "data-quality", "schema"],
   "skills": "./skills/"

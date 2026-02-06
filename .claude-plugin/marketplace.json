@@ -12,7 +12,7 @@
         "name": "dccakes-skills",
         "source": {
           "source": "url",
-          "url": "https://github.com/diegocarvallo/agent-skills.git"
+          "url": "https://github.com/dccakes/agent-skills.git"
         },
         "description": "Personal agent skills for ODCS data contracts",
         "version": "1.0.0",
